@@ -1,0 +1,501 @@
+Emp_Id,DOB,First_name,Last_name,Gender,DoJ,Projects,Last_performance_rating,Left,Last_date,Salary,Dept_Id,Title,Performane_issues,Rating
+10001,02-09-1953,Georgi,Facello,M,26-06-1986,9,C,1,30-07-1994,60117,d005,Senior Engineer,0,2
+10003,03-12-1959,Parto,Bamford,M,28-08-1986,1,C,0,,40006,d004,Senior Engineer,0,2
+10004,01-05-1954,Chirstian,Koblick,M,01-12-1986,5,A,0,,40054,d004,Senior Engineer,0,4
+10006,20-04-1953,Anneke,Preusig,F,02-06-1989,10,B,0,,40000,d005,Senior Engineer,0,3
+10002,02-06-1964,Bezalel,Simmel,F,21-11-1985,8,B,0,,65828,d007,Staff,0,3
+10005,21-01-1955,Kyoichi,Maliniak,M,12-09-1989,6,A,0,,78228,d003,Staff,0,4
+421786,28-09-1957,Xiong,Verhoeff,M,26-11-1987,2,C,0,,40000,d003,Staff,0,2
+57444,30-01-1958,Berry,Babb,F,21-03-1992,9,A,0,,48973,d004,Engineer,0,4
+10007,23-05-1957,Tzvetan,Zielinski,F,10-02-1989,6,B,1,18-09-2002,56724,d008,Staff,0,3
+10008,19-02-1958,Saniya,Kalloufi,M,15-09-1994,9,C,0,,46671,d005,Assistant Engineer,0,2
+282238,28-10-1952,Abdelkader,Baumann,F,18-01-1991,6,B,0,,40000,d006,Senior Engineer,0,3
+10009,19-04-1952,Sumant,Peac,F,18-02-1985,8,B,0,,60929,d006,Senior Engineer,0,3
+10010,01-06-1963,Duangkaew,Piveteau,F,24-08-1989,4,A,0,,72488,d004,Engineer,0,4
+10010,01-06-1963,Duangkaew,Piveteau,F,24-08-1989,4,A,0,,72488,d006,Engineer,0,4
+263976,30-10-1959,Eran,Cusworth,M,14-11-1986,8,B,1,21-08-1993,40000,d006,Senior Engineer,0,3
+10011,07-11-1953,Mary,Sluis,F,22-01-1990,6,C,0,,42365,d009,Staff,0,2
+273487,14-04-1957,Christoph,Parfitt,M,28-06-1991,10,A,0,,56087,d003,Staff,0,4
+10012,04-10-1960,Patricio,Bridgland,M,18-12-1992,3,A,0,,40000,d005,Senior Engineer,0,4
+10013,07-06-1963,Eberhardt,Terkki,M,20-10-1985,6,C,0,,40000,d003,Senior Staff,0,2
+461591,17-11-1964,Xudong,Samarati,M,13-11-1985,2,A,1,21-08-1994,40000,d002,Senior Staff,0,4
+10014,12-02-1956,Berni,Genin,M,11-03-1987,9,B,0,,46168,d005,Engineer,0,3
+10015,19-08-1959,Guoxiang,Nooteboom,M,02-07-1987,4,B,0,,40000,d008,Senior Staff,0,3
+10016,02-05-1961,Kazuhito,Cappelletti,M,27-01-1995,5,C,0,,70889,d007,Staff,0,2
+10017,06-07-1958,Cristinel,Bouloucos,F,03-08-1993,10,A,0,,71380,d001,Staff,0,4
+219881,24-04-1956,Kwangyoen,Speek,F,14-02-1993,6,B,0,,40000,d009,Senior Staff,0,3
+10018,19-06-1954,Kazuhide,Peha,F,03-04-1987,4,B,0,,55881,d004,Senior Engineer,0,3
+10018,19-06-1954,Kazuhide,Peha,F,03-04-1987,4,B,0,,55881,d005,Senior Engineer,0,3
+29920,31-12-1961,Shuichi,Tyugu,F,17-01-1995,1,PIP,0,,40000,d004,Engineer,0,1
+10019,23-01-1953,Lillian,Haddadi,M,30-04-1999,4,B,0,,44276,d008,Staff,0,3
+10020,24-12-1952,Mayuko,Warwick,M,26-01-1991,7,B,0,,40000,d004,Engineer,0,3
+208153,25-10-1961,Abdulah,Lunn,M,08-04-1989,8,C,1,02-08-2000,50183,d005,Senior Engineer,0,2
+10021,20-02-1960,Ramzi,Erde,M,10-02-1988,1,B,0,,55025,d005,Technique Leader,0,3
+10022,08-07-1952,Shahaf,Famili,M,22-08-1995,9,B,1,04-11-2005,40000,d005,Engineer,0,3
+13616,30-08-1961,Perry,Lorho,F,03-08-1991,7,C,0,,40000,d005,Senior Engineer,0,2
+13616,30-08-1961,Perry,Lorho,F,03-08-1991,7,C,0,,40000,d008,Senior Engineer,0,2
+10023,29-09-1953,Bojan,Montemayor,F,17-12-1989,8,A,0,,47883,d005,Engineer,0,4
+10024,05-09-1958,Suzette,Pettey,F,19-05-1997,3,A,0,,83733,d004,Assistant Engineer,0,4
+246449,23-03-1958,Subbu,Bultermann,F,25-03-1988,9,C,0,,87084,d007,Staff,1,2
+10025,31-10-1958,Prasadram,Heyers,M,17-08-1987,6,C,0,,40000,d005,Technique Leader,0,2
+10026,03-04-1953,Yongqiao,Berztiss,M,20-03-1995,1,PIP,0,,47585,d004,Senior Engineer,0,1
+21529,19-05-1959,Bojan,Zallocco,M,14-10-1986,7,C,0,,40000,d005,Engineer,0,2
+10027,10-07-1962,Divier,Reistad,F,07-07-1989,10,B,0,,40000,d005,Senior Engineer,0,3
+10028,26-11-1963,Domenick,Tempesti,M,22-10-1991,8,B,0,,48859,d005,Engineer,0,3
+17934,12-07-1963,Bilhanan,Wuwongse,M,06-10-1993,7,C,0,,48795,d005,Technique Leader,0,2
+10029,13-12-1956,Otmar,Herbst,M,20-11-1985,6,C,0,,63163,d004,Senior Engineer,0,2
+10029,13-12-1956,Otmar,Herbst,M,20-11-1985,6,C,0,,63163,d006,Senior Engineer,0,2
+48085,19-01-1964,Venkatesan,Gilg,M,28-06-1993,9,B,0,,63016,d002,Staff,0,3
+10030,14-07-1958,Elvis,Demeyer,M,17-02-1994,10,A,0,,66956,d004,Senior Engineer,0,4
+10031,27-01-1959,Karsten,Joslin,M,01-09-1991,2,C,1,03-08-1999,40000,d005,Senior Engineer,0,2
+239838,11-12-1957,Naftali,Dulli,M,06-06-1993,3,A,0,,57715,d004,Engineer,0,4
+10032,09-08-1960,Jeong,Reistad,F,20-06-1990,9,C,0,,48426,d004,Senior Engineer,0,2
+10033,14-11-1956,Arif,Merlo,M,18-03-1987,9,A,0,,51258,d006,Technique Leader,0,4
+240129,11-08-1952,Roddy,Karnin,M,29-05-1985,10,C,0,,43548,d006,Technique Leader,0,2
+10034,29-12-1962,Bader,Swan,M,21-09-1988,8,C,0,,47561,d007,Staff,0,2
+10035,08-02-1953,Alain,Chappelet,M,05-09-1988,6,B,0,,41538,d004,Senior Engineer,0,3
+205246,25-11-1958,Nevio,Demizu,F,18-05-1986,8,B,0,,80252,d007,Senior Staff,0,3
+10036,10-08-1959,Adamantios,Portugali,M,03-01-1992,5,C,0,,42819,d003,Senior Staff,0,2
+10037,22-07-1963,Pradeep,Makrucki,M,05-12-1990,4,A,0,,40000,d005,Senior Engineer,0,4
+10038,20-07-1960,Huan,Lortz,M,20-09-1989,5,A,0,,40000,d009,Staff,0,4
+10039,01-10-1959,Alejandro,Brender,M,19-01-1988,1,B,0,,40000,d003,Staff,0,3
+424270,15-01-1963,Kellyn,Yoshizawa,F,08-05-1995,8,A,0,,60678,d002,Staff,0,4
+424270,15-01-1963,Kellyn,Yoshizawa,F,08-05-1995,8,A,0,,60678,d007,Staff,0,4
+10040,13-09-1959,Weiyi,Meriste,F,14-02-1993,6,A,0,,52153,d005,Senior Engineer,0,4
+10040,13-09-1959,Weiyi,Meriste,F,14-02-1993,6,A,0,,52153,d008,Senior Engineer,0,4
+71530,09-02-1959,Venkatesan,McAlpine,M,31-03-1989,5,A,0,,69148,d005,Senior Engineer,0,4
+10041,27-08-1959,Uri,Lenart,F,12-11-1989,7,A,0,,56893,d007,Staff,0,4
+10042,26-02-1956,Magy,Stamatiou,F,21-03-1993,4,B,0,,81662,d002,Staff,0,3
+427958,03-05-1957,Feixiong,Poujol,F,11-05-1985,10,C,0,,63377,d001,Staff,0,2
+10043,19-09-1960,Yishay,Tzvieli,M,20-10-1990,6,C,0,,49324,d005,Senior Engineer,0,2
+10044,21-09-1961,Mingsen,Casley,F,21-05-1994,1,C,0,,40919,d004,Technique Leader,0,2
+280408,19-09-1964,Elliott,Perl,M,29-10-1987,7,A,0,,75963,d007,Staff,0,4
+10045,14-08-1957,Moss,Shanbhogue,M,02-09-1989,5,C,0,,41971,d004,Engineer,0,2
+10046,23-07-1960,Lucien,Rosenbaum,M,20-06-1992,1,B,0,,40000,d008,Staff,0,3
+104639,19-06-1960,Theron,Escriba,F,14-09-1999,6,B,0,,40000,d005,Senior Engineer,0,3
+104639,19-06-1960,Theron,Escriba,F,14-09-1999,6,B,0,,40000,d008,Senior Engineer,0,3
+10047,29-06-1952,Zvonko,Nyanchama,M,31-03-1989,10,C,1,23-04-1991,54982,d004,Senior Engineer,0,2
+10048,11-07-1963,Florian,Syrotiuk,M,24-02-1985,9,B,0,,40000,d005,Engineer,0,3
+214555,08-10-1960,Nechama,Copas,F,27-10-1987,8,A,0,,40000,d005,Senior Engineer,0,4
+10049,24-04-1961,Basil,Tramer,F,04-05-1992,3,B,0,,40000,d009,Staff,0,3
+10050,21-05-1958,Yinghua,Dredge,M,25-12-1990,6,C,0,,74366,d002,Staff,0,2
+10050,21-05-1958,Yinghua,Dredge,M,25-12-1990,6,C,0,,74366,d007,Staff,0,2
+229010,12-11-1961,Mark,Cappelli,M,07-05-1990,9,B,0,,40000,d003,Staff,0,3
+10051,28-07-1953,Hidefumi,Caine,M,15-10-1992,2,A,0,,48817,d004,Senior Engineer,0,4
+35916,15-08-1953,Wonhee,Talmon,F,20-03-1985,1,A,0,,40000,d005,Senior Engineer,0,4
+10052,26-02-1961,Heping,Nitsch,M,21-05-1988,5,B,0,,57212,d008,Staff,0,3
+10053,13-09-1954,Sanjiv,Zschoche,F,04-02-1986,4,B,0,,67854,d007,Senior Staff,0,3
+61583,04-06-1957,Ziva,Vecchi,M,03-07-1986,6,B,0,,50801,d005,Senior Engineer,0,3
+10054,04-04-1957,Mayumi,Schueller,M,13-03-1995,8,A,0,,40000,d003,Staff,0,4
+10055,06-06-1956,Georgy,Dredge,M,27-04-1992,4,A,0,,80024,d001,Staff,0,4
+67799,17-10-1961,Pantung,Cools,M,28-01-1994,9,B,0,,48111,d006,Engineer,0,3
+10056,01-09-1961,Brendon,Bernini,F,01-02-1990,4,C,0,,48857,d005,Senior Engineer,0,2
+10057,30-05-1954,Ebbe,Callaway,F,15-01-1992,9,S,0,,49616,d005,Senior Engineer,0,5
+37061,25-06-1964,Piyawadee,Herbst,F,12-04-1990,10,C,0,,40000,d003,Staff,0,2
+10058,01-10-1954,Berhard,McFarlin,M,13-04-1987,7,A,0,,52787,d001,Senior Staff,0,4
+10059,19-09-1953,Alejandro,McAlpine,F,26-06-1991,2,C,0,,71218,d002,Senior Staff,0,2
+411412,11-01-1953,Hairong,Schaar,M,24-12-1987,2,A,0,,42348,d004,Senior Engineer,0,4
+10060,15-10-1961,Breannda,Billingsley,M,02-11-1987,7,A,0,,74686,d007,Staff,0,4
+10060,15-10-1961,Breannda,Billingsley,M,02-11-1987,7,A,0,,74686,d009,Staff,0,4
+422587,03-07-1954,Mohit,Speek,F,14-01-1986,10,C,0,,40000,d005,Senior Engineer,0,2
+10061,19-10-1962,Tse,Herber,M,17-09-1985,1,B,0,,68577,d007,Senior Staff,0,3
+10062,02-11-1961,Anoosh,Peyn,M,30-08-1991,7,B,1,16-02-1993,55685,d005,Senior Engineer,0,3
+35270,02-01-1953,Masali,Bakhtari,M,05-02-1991,4,A,0,,40338,d004,Technique Leader,0,4
+10063,06-08-1952,Gino,Leonhardt,F,08-04-1989,1,A,0,,40000,d004,Senior Engineer,0,4
+10064,07-04-1959,Udi,Jansch,M,20-11-1985,2,A,0,,40000,d008,Staff,0,4
+105597,14-08-1956,Christfried,Kabayashi,M,11-05-1987,2,A,0,,43841,d003,Senior Staff,0,4
+10065,14-04-1963,Satosi,Awdeh,M,18-05-1988,5,B,0,,40000,d005,Engineer,0,3
+10066,13-11-1952,Kwee,Schusler,M,26-02-1986,1,PIP,0,,69736,d005,Senior Engineer,0,1
+244689,13-04-1956,Urs,Saoudi,M,02-09-1991,7,B,0,,40000,d001,Staff,0,3
+244689,13-04-1956,Urs,Saoudi,M,02-09-1991,7,B,0,,40000,d003,Staff,0,3
+10067,07-01-1953,Claudi,Stavenow,M,04-03-1987,2,C,0,,44642,d006,Senior Engineer,0,2
+10068,26-11-1962,Charlene,Brattka,M,07-08-1987,6,A,0,,87964,d007,Staff,0,4
+48885,28-08-1958,Phuoc,Antonisse,M,18-02-1993,9,B,0,,55736,d005,Senior Engineer,0,3
+10069,06-09-1960,Margareta,Bierman,F,05-11-1989,10,A,0,,67932,d004,Technique Leader,0,4
+10070,20-08-1955,Reuven,Garigliano,M,14-10-1985,7,A,0,,55999,d005,Technique Leader,0,4
+10070,20-08-1955,Reuven,Garigliano,M,14-10-1985,7,A,0,,55999,d008,Technique Leader,0,4
+244492,22-05-1958,Shaunak,Pettit,M,19-07-1994,3,C,1,14-11-2000,63685,d005,Senior Engineer,0,2
+10071,21-01-1958,Hisao,Lipner,M,01-10-1987,4,B,0,,40000,d003,Staff,0,3
+215615,13-02-1957,Bader,Chinal,F,08-01-1990,10,C,0,,40000,d004,Engineer,0,2
+215615,13-02-1957,Bader,Chinal,F,08-01-1990,10,C,0,,40000,d006,Engineer,0,2
+10072,15-05-1952,Hironoby,Sidou,F,21-07-1988,8,B,0,,40000,d005,Senior Engineer,0,3
+10073,23-02-1954,Shir,McClurg,M,01-12-1991,5,C,0,,56473,d006,Engineer,0,2
+95280,14-02-1960,Owen,Hiraishi,F,07-08-1985,10,S,0,,40000,d004,Senior Engineer,0,5
+10074,28-08-1955,Mokhtar,Bernatsky,F,13-08-1990,8,PIP,1,22-05-1995,61714,d005,Technique Leader,0,1
+10075,09-03-1960,Gao,Dolinsky,F,19-03-1987,4,B,0,,43815,d005,Senior Engineer,0,3
+37473,06-03-1952,Prasadram,Valette,M,16-02-1994,3,PIP,0,,55963,d002,Staff,0,1
+10076,13-06-1952,Erez,Ritzmann,F,09-07-1985,9,B,0,,47319,d005,Senior Engineer,0,3
+10077,18-04-1964,Mona,Azuma,M,02-03-1990,2,C,0,,40000,d003,Staff,0,2
+43471,10-01-1964,Mechthild,Gihr,F,10-05-1995,6,B,1,11-05-2007,40023,d004,Engineer,0,3
+10078,25-12-1959,Danel,Mondadori,F,26-05-1987,10,A,0,,47280,d005,Engineer,0,4
+10079,05-10-1961,Kshitij,Gils,F,27-03-1986,2,B,0,,53492,d005,Technique Leader,0,3
+289261,04-02-1958,Gad,Nollmann,M,01-10-1985,5,B,0,,63068,d007,Staff,0,3
+10080,03-12-1957,Premal,Baek,M,19-11-1985,3,A,0,,54916,d002,Staff,0,4
+10080,03-12-1957,Premal,Baek,M,19-11-1985,3,A,0,,54916,d003,Staff,0,4
+26941,02-12-1963,Shigeu,Masamoto,M,27-08-1989,7,C,0,,40000,d005,Senior Engineer,0,2
+10081,17-12-1960,Zhongwei,Rosen,M,30-10-1986,5,A,0,,55786,d004,Senior Engineer,0,4
+10082,09-09-1963,Parviz,Lortz,M,03-01-1990,9,C,1,15-04-2000,48935,d008,Staff,0,2
+465253,06-08-1957,Gladys,Yoshimura,F,23-07-1990,5,B,0,,43653,d004,Senior Engineer,0,3
+10083,23-07-1959,Vishv,Zockler,M,31-03-1987,5,C,0,,40000,d004,Senior Engineer,0,2
+10084,25-05-1960,Tuval,Kalloufi,M,15-12-1995,7,A,0,,69811,d004,Senior Engineer,0,4
+444985,20-01-1956,Giap,Verspoor,F,17-03-1990,2,B,0,,71042,d007,Staff,0,3
+10085,07-11-1962,Kenroku,Malabarba,M,09-04-1994,4,A,0,,40000,d004,Senior Engineer,0,4
+10086,19-11-1962,Somnath,Foote,M,16-02-1990,1,B,0,,81613,d003,Staff,0,3
+299898,15-02-1964,Munehiko,Janocha,M,11-12-1988,8,A,0,,63315,d001,Staff,0,4
+10087,23-07-1959,Xinglin,Eugenio,F,08-09-1986,9,A,0,,96750,d007,Staff,0,4
+10088,25-02-1954,Jungsoon,Syrzycki,F,02-09-1988,9,A,1,18-06-1998,65957,d007,Staff,0,4
+10088,25-02-1954,Jungsoon,Syrzycki,F,02-09-1988,9,A,1,18-06-1998,65957,d009,Staff,0,4
+10089,21-03-1963,Sudharsan,Flasterstein,F,12-08-1986,4,C,0,,56469,d007,Staff,0,2
+425023,04-08-1953,Shaowen,Krone,M,18-11-1990,8,C,0,,45682,d005,Senior Engineer,0,2
+10090,30-05-1961,Kendra,Hofting,M,14-03-1986,7,C,0,,44978,d005,Senior Engineer,0,2
+10091,04-10-1955,Amabile,Gomatam,M,18-11-1992,5,A,0,,40000,d005,Senior Engineer,0,4
+411614,29-03-1958,Martins,Wynblatt,M,15-02-1992,1,B,0,,54770,d005,Senior Engineer,0,3
+10092,18-10-1964,Valdiodio,Niizuma,F,22-09-1989,10,C,0,,53977,d005,Engineer,0,2
+10093,11-06-1964,Sailaja,Desikan,M,05-11-1996,8,B,0,,67856,d007,Staff,0,3
+425656,10-10-1964,Basem,Imataki,M,01-07-1987,4,B,0,,40000,d008,Staff,0,3
+10094,25-05-1957,Arumugam,Ossenbruggen,F,18-04-1987,10,B,0,,58001,d008,Senior Staff,0,3
+10095,03-01-1965,Hilari,Morton,M,15-07-1986,8,C,0,,63668,d007,Staff,0,2
+252000,03-12-1952,Zhonghui,Gyimothy,F,02-03-1989,10,B,0,,40000,d006,Assistant Engineer,0,3
+10096,16-09-1954,Jayson,Mandell,M,14-01-1990,1,S,0,,61395,d004,Engineer,0,5
+10097,27-02-1952,Remzi,Waschkowski,M,15-09-1990,2,A,0,,44886,d008,Staff,0,4
+10098,23-09-1961,Sreekrishna,Servieres,F,13-05-1985,4,A,0,,40000,d004,Senior Engineer,0,4
+10098,23-09-1961,Sreekrishna,Servieres,F,13-05-1985,4,A,0,,40000,d009,Senior Engineer,0,4
+103676,02-12-1964,Karoline,Matzov,F,06-08-1987,3,B,0,,62128,d004,Senior Engineer,0,3
+103676,02-12-1964,Karoline,Matzov,F,06-08-1987,3,B,0,,62128,d005,Senior Engineer,0,3
+10099,25-05-1956,Valter,Sullins,F,18-10-1988,5,C,0,,68781,d007,Staff,0,2
+10100,21-04-1953,Hironobu,Haraldson,F,21-09-1987,6,B,0,,54398,d003,Staff,0,3
+93916,14-08-1957,Rosalie,Rousseau,F,07-11-1998,3,B,0,,53040,d005,Engineer,0,3
+93916,14-08-1957,Rosalie,Rousseau,F,07-11-1998,3,B,0,,53040,d008,Engineer,0,3
+10101,15-04-1952,Perla,Heyers,F,28-12-1992,9,B,0,,66591,d007,Staff,0,3
+10102,04-11-1959,Paraskevi,Luby,F,26-01-1994,3,A,1,15-01-2003,44380,d004,Engineer,0,4
+430653,25-08-1960,Masoud,Peroz,F,30-09-1989,4,A,0,,69077,d005,Senior Engineer,0,4
+10103,26-11-1953,Akemi,Birch,M,02-12-1986,5,B,0,,68158,d005,Engineer,0,3
+10104,19-11-1961,Xinyu,Warwick,M,16-04-1987,5,B,0,,45312,d008,Senior Staff,0,3
+293744,29-04-1952,Kolar,Carrere,M,30-06-1987,2,B,0,,40000,d002,Staff,0,3
+293744,29-04-1952,Kolar,Carrere,M,30-06-1987,2,B,0,,40000,d003,Staff,0,3
+10105,05-02-1962,Hironoby,Piveteau,M,23-03-1999,2,C,0,,59258,d003,Staff,0,2
+10106,29-08-1952,Eben,Aingworth,M,19-12-1990,4,C,0,,62928,d004,Senior Engineer,0,2
+222134,10-03-1962,Qunsheng,Speer,M,13-02-1986,3,A,0,,48391,d005,Senior Engineer,0,4
+10107,13-06-1956,Dung,Baca,F,22-03-1994,7,S,0,,93159,d007,Senior Staff,0,5
+10108,07-04-1952,Lunjin,Giveon,M,02-10-1986,2,A,0,,40000,d001,Staff,0,4
+10108,07-04-1952,Lunjin,Giveon,M,02-10-1986,2,A,0,,40000,d003,Staff,0,4
+465348,10-07-1958,Limsoon,Beznosov,M,09-02-1992,3,B,0,,40000,d005,Engineer,0,3
+10109,25-11-1958,Mariusz,Prampolini,F,16-06-1993,7,A,0,,40000,d004,Senior Engineer,0,4
+92149,19-03-1957,Serenella,Kamber,F,14-09-1988,4,B,0,,69585,d002,Staff,0,3
+10110,07-03-1957,Xuejia,Ullian,F,22-08-1986,9,A,0,,46836,d003,Staff,0,4
+10111,29-08-1963,Hugo,Rosis,F,19-06-1988,6,A,0,,40000,d006,Senior Engineer,0,4
+406318,03-10-1952,Hitomi,Gunderson,M,22-11-1987,9,A,0,,55145,d005,Senior Engineer,0,4
+10112,13-08-1963,Yuichiro,Swick,F,08-10-1985,2,C,0,,49500,d009,Staff,0,2
+10113,13-11-1963,Jaewon,Syrzycki,M,24-12-1989,10,A,0,,69856,d004,Engineer,0,4
+259126,05-07-1953,Dines,Encarnacion,M,02-08-1986,2,C,0,,70329,d001,Staff,0,2
+10114,16-02-1957,Munir,Demeyer,F,17-07-1992,6,PIP,0,,49593,d008,Staff,0,1
+10115,25-12-1964,Chikara,Rissland,M,23-01-1986,1,A,0,,40000,d009,Staff,0,4
+42625,12-12-1957,Harngdar,Swick,F,28-05-1986,1,A,0,,55095,d007,Staff,0,4
+10116,26-08-1955,Dayanand,Czap,F,28-05-1985,3,A,0,,44034,d005,Senior Engineer,0,4
+10116,26-08-1955,Dayanand,Czap,F,28-05-1985,3,A,0,,44034,d008,Senior Engineer,0,4
+85093,30-01-1959,Nectarios,Covnot,M,24-04-1990,6,A,0,,97816,d007,Senior Staff,0,4
+10117,24-10-1961,Kiyotoshi,Blokdijk,F,28-05-1990,6,A,0,,52284,d004,Senior Engineer,0,4
+10118,29-03-1957,Zhonghui,Zyda,F,13-09-1990,6,B,0,,40000,d005,Senior Engineer,0,3
+281320,14-12-1960,Karoline,Ratzlaff,F,10-02-1995,2,C,1,17-02-1997,41600,d005,Senior Engineer,0,2
+10119,01-12-1960,Domenick,Peltason,M,14-03-1986,9,C,0,,53551,d004,Engineer,0,2
+10120,26-03-1960,Armond,Fairtlough,F,06-07-1996,6,A,0,,46292,d004,Engineer,0,4
+402202,14-10-1959,Leni,Pusterhofer,M,29-01-1995,10,A,0,,41006,d005,Technique Leader,0,4
+10121,14-07-1962,Guoxiang,Ramsay,M,03-05-1989,10,B,0,,43772,d005,Senior Engineer,0,3
+10122,19-01-1965,Ohad,Esposito,M,23-12-1992,6,A,0,,42284,d005,Technique Leader,0,4
+419277,10-10-1953,Freyja,Uhrig,M,20-12-1986,4,PIP,0,,46833,d005,Technique Leader,0,1
+10123,12-05-1962,Hinrich,Randi,M,15-01-1993,1,A,0,,71524,d004,Engineer,0,4
+10124,23-05-1962,Geraldo,Marwedel,M,05-09-1991,8,C,0,,40583,d004,Senior Engineer,0,2
+10124,23-05-1962,Geraldo,Marwedel,M,05-09-1991,8,C,0,,40583,d006,Senior Engineer,0,2
+451259,18-09-1956,Zhenhua,Milicic,M,04-08-1986,10,B,0,,46138,d003,Staff,0,3
+10125,13-09-1957,Syozo,Hiltgen,F,26-10-1990,10,C,0,,58249,d007,Staff,0,2
+225842,13-03-1952,Bowen,Schmezko,M,30-05-1986,3,B,0,,40000,d005,Engineer,0,3
+10126,07-08-1954,Kayoko,Valtorta,M,08-09-1985,10,A,0,,40000,d009,Staff,0,4
+10127,24-02-1952,Subir,Baja,F,14-01-1989,3,A,1,01-06-1995,40000,d005,Senior Engineer,0,4
+62038,27-09-1959,Shiv,Narlikar,F,03-09-1987,1,B,1,18-04-1997,60105,d008,Staff,0,3
+10128,15-02-1958,Babette,Lamba,F,06-06-1988,5,C,0,,40000,d009,Staff,0,2
+10129,02-12-1955,Armond,Peir,M,10-12-1985,9,B,0,,40000,d005,Technique Leader,0,3
+256701,24-11-1952,Chikako,Veevers,F,10-07-1988,1,PIP,0,,40000,d005,Senior Engineer,0,1
+10130,27-04-1955,Nishit,Casperson,M,21-06-1988,2,B,0,,40000,d004,Senior Engineer,0,3
+10131,19-02-1952,Magdalena,Eldridge,M,17-11-1994,8,A,0,,48475,d004,Engineer,0,4
+205366,21-02-1964,Kazuhira,Shimshoni,F,15-04-1987,9,A,0,,80518,d007,Senior Staff,0,4
+205366,21-02-1964,Kazuhira,Shimshoni,F,15-04-1987,9,A,0,,80518,d009,Senior Staff,0,4
+10132,15-12-1956,Ayakannu,Skrikant,M,30-10-1994,6,A,0,,61590,d002,Staff,0,4
+10133,12-12-1963,Giri,Isaak,M,15-12-1985,7,B,0,,40000,d004,Senior Engineer,0,3
+101013,24-02-1961,Leen,Pappas,M,19-11-1989,10,A,0,,68550,d004,Senior Engineer,0,4
+10134,15-04-1953,Diederik,Siprelle,M,12-12-1987,7,A,0,,40000,d004,Senior Engineer,0,4
+10134,15-04-1953,Diederik,Siprelle,M,12-12-1987,7,A,0,,40000,d005,Senior Engineer,0,4
+212882,26-12-1958,Changho,Pietracaprina,F,13-02-1992,2,A,0,,40000,d009,Staff,0,4
+10135,23-12-1956,Nathan,Monkewich,M,19-02-1988,7,C,0,,40000,d004,Engineer,0,2
+10136,14-09-1961,Zissis,Pintelas,M,11-02-1986,10,C,0,,82420,d007,Staff,1,2
+21620,24-11-1960,Shaowen,Pramanik,M,27-12-1992,8,PIP,0,,40000,d008,Staff,0,1
+10137,30-07-1959,Maren,Hutton,M,18-02-1985,3,B,0,,40000,d009,Staff,0,3
+10138,24-04-1955,Perry,Shimshoni,M,18-09-1986,5,C,0,,53574,d006,Senior Engineer,0,2
+223670,08-08-1952,Erez,Chinin,F,01-07-1990,1,A,1,28-08-1993,40000,d005,Senior Engineer,0,4
+10139,03-03-1963,Ewing,Foong,F,15-03-1998,7,S,0,,40000,d005,Engineer,0,5
+10140,11-03-1957,Yucel,Auria,F,14-03-1991,2,B,0,,61352,d001,Staff,0,3
+209422,28-07-1964,Reinhard,Gischer,M,12-01-1999,2,B,0,,72780,d004,Engineer,0,3
+10141,17-01-1960,Shahaf,Ishibashi,F,06-05-1993,9,PIP,1,13-04-2004,62907,d008,Senior Staff,0,1
+10142,29-08-1956,Tzvetan,Hettesheimer,M,28-10-1993,5,C,0,,40000,d005,Senior Engineer,0,2
+403328,28-03-1959,Shem,Kroha,M,22-09-1994,4,C,0,,40000,d004,Senior Engineer,0,2
+403328,28-03-1959,Shem,Kroha,M,22-09-1994,4,C,0,,40000,d009,Senior Engineer,0,2
+10143,16-07-1961,Sakthirel,Bakhtari,M,30-09-1988,7,A,0,,40000,d005,Senior Engineer,0,4
+10144,17-06-1959,Marla,Brendel,M,14-10-1985,1,A,0,,56720,d002,Staff,0,4
+10144,17-06-1959,Marla,Brendel,M,14-10-1985,1,A,0,,56720,d003,Staff,0,4
+292694,20-06-1964,Kauko,Demizu,M,08-12-1990,10,C,0,,40000,d004,Senior Engineer,0,2
+10145,30-03-1956,Akemi,Esposito,F,01-08-1987,4,A,0,,47612,d005,Engineer,0,4
+10146,12-01-1959,Chenyi,Syang,M,28-06-1988,6,B,0,,60394,d002,Staff,0,3
+10147,13-10-1964,Kazuhito,Encarnacion,M,21-08-1986,1,A,0,,40000,d002,Staff,0,4
+270554,11-06-1959,Percy,Litecky,F,16-08-1993,7,A,0,,40000,d008,Staff,0,4
+10148,04-10-1957,Douadi,Azumi,M,10-10-1995,1,B,0,,63021,d007,Staff,0,3
+10149,20-05-1953,Xiadong,Perry,F,05-11-1986,7,B,0,,88740,d007,Staff,0,3
+37601,14-12-1962,Gilbert,Naumovich,M,19-09-1992,1,A,0,,58896,d007,Staff,0,4
+10150,29-01-1955,Zhenbing,Perng,F,16-11-1986,6,A,0,,70122,d005,Senior Engineer,0,4
+10151,06-03-1959,Itzchak,Lichtner,M,10-04-1990,7,C,0,,90741,d007,Staff,1,2
+437985,12-06-1954,Reuven,Munke,M,13-04-1986,4,B,0,,53517,d007,Staff,0,3
+10152,01-12-1954,Jaques,Munro,F,27-01-1986,10,C,0,,40000,d006,Engineer,0,2
+10153,15-12-1955,Heekeun,Majewski,M,08-04-1987,3,A,0,,54246,d005,Assistant Engineer,0,4
+14097,18-03-1963,Khalil,Gniady,M,04-12-1990,6,C,0,,70604,d002,Staff,0,2
+10154,17-01-1957,Abdulah,Thibadeau,F,12-12-1990,5,C,0,,40000,d009,Staff,0,2
+10155,07-12-1959,Adas,Nastansky,M,05-01-1990,7,PIP,0,,40040,d004,Staff,0,1
+10155,07-12-1959,Adas,Nastansky,M,05-01-1990,7,PIP,0,,40040,d008,Staff,0,1
+221689,03-02-1960,Fayez,Harllee,F,01-01-1987,8,B,0,,67589,d005,Senior Engineer,0,3
+10156,19-09-1964,Sumali,Fargier,M,10-03-1985,5,B,0,,49879,d006,Senior Engineer,0,3
+62117,25-06-1964,Bojan,Crouzet,F,10-06-1994,7,B,0,,40000,d005,Senior Engineer,0,3
+10157,23-04-1954,Nigel,Aloisi,M,02-11-1985,8,C,0,,48770,d005,Senior Engineer,0,2
+10158,01-04-1958,Khedija,Mitsuhashi,M,29-01-1986,10,A,1,25-04-1988,40725,d004,Senior Engineer,0,4
+213813,11-07-1955,Tsuneo,Matzat,M,07-01-1989,10,B,0,,51196,d002,Staff,0,3
+10159,03-03-1955,Serif,Buescher,M,29-05-1991,5,B,0,,52881,d006,Senior Engineer,0,3
+10160,18-10-1953,Debatosh,Khasidashvili,M,30-01-1989,5,C,0,,91622,d007,Staff,1,2
+28823,29-09-1958,Tonny,Skafidas,M,20-06-1988,2,B,0,,62549,d007,Staff,0,3
+10161,06-04-1953,Hairong,Mellouli,F,03-04-1988,4,A,0,,43149,d004,Engineer,0,4
+10162,05-10-1957,Florina,Eugenio,M,01-05-1991,1,C,0,,40000,d004,Engineer,0,2
+284330,05-04-1954,Bangqing,Pehl,F,30-09-1996,5,A,0,,43654,d004,Engineer,0,4
+10163,17-09-1952,Karsten,Szmurlo,M,19-07-1989,3,C,0,,41603,d003,Senior Staff,0,2
+10164,19-01-1956,Jagoda,Braunmuhl,M,12-11-1985,9,A,0,,52043,d004,Senior Engineer,0,4
+10164,19-01-1956,Jagoda,Braunmuhl,M,12-11-1985,9,A,0,,52043,d009,Senior Engineer,0,4
+107258,21-12-1953,Parviz,Zaumen,F,04-04-1987,4,A,0,,87036,d007,Staff,0,4
+10165,16-06-1960,Miyeon,Macedo,M,17-05-1988,5,C,0,,43991,d002,Senior Staff,0,2
+209527,26-09-1962,Sashi,Danlos,M,30-01-1998,1,A,0,,40000,d009,Staff,0,4
+10166,10-05-1953,Samphel,Siegrist,F,01-01-1993,9,B,0,,51586,d005,Engineer,0,3
+10167,23-05-1958,Duangkaew,Rassart,M,04-04-1992,5,PIP,0,,56990,d004,Senior Engineer,0,1
+207774,17-08-1953,KayLiang,Trachtenberg,M,02-05-1988,2,B,0,,53722,d003,Staff,0,3
+10168,11-09-1964,Dharmaraja,Stassinopoulos,M,06-12-1986,1,C,0,,51818,d008,Staff,0,2
+10169,03-05-1961,Sampalli,Snedden,F,24-07-1992,6,C,0,,70303,d005,Engineer,0,2
+11980,03-07-1955,Yechezkel,Pews,M,20-01-1992,10,B,0,,58241,d007,Staff,0,3
+10170,03-10-1960,Kasturi,Jenevein,F,02-01-1986,6,C,0,,47183,d004,Engineer,0,2
+10171,11-09-1957,Herbert,Trachtenberg,M,22-07-1989,2,B,0,,41311,d004,Technique Leader,0,3
+270258,05-04-1953,Feipei,Hasenauer,M,05-03-1995,4,B,0,,40000,d004,Senior Engineer,0,3
+10172,25-03-1957,Shigeu,Matzen,F,13-10-1995,9,C,0,,41197,d005,Engineer,0,2
+10172,25-03-1957,Shigeu,Matzen,F,13-10-1995,9,C,0,,41197,d008,Engineer,0,2
+10173,28-10-1962,Shrikanth,Mahmud,M,21-03-1992,8,PIP,0,,85757,d002,Staff,1,1
+10174,15-05-1959,Badri,Furudate,M,01-06-1987,6,B,0,,59520,d004,Senior Engineer,0,3
+457800,20-09-1963,Stabislas,Domenig,M,04-08-1986,8,B,0,,64014,d002,Staff,0,3
+457800,20-09-1963,Stabislas,Domenig,M,04-08-1986,8,B,0,,64014,d007,Staff,0,3
+10175,11-01-1960,Aleksandar,Ananiadou,F,11-01-1988,7,A,0,,72285,d001,Staff,0,4
+10176,24-01-1957,Brendon,Lenart,F,22-12-1994,4,B,0,,54635,d009,Staff,0,3
+446142,22-08-1961,Gregory,Zedlitz,F,10-07-1993,6,A,0,,40000,d006,Senior Engineer,0,4
+10177,08-11-1954,Pragnesh,Iisaka,M,06-02-1993,10,PIP,0,,48041,d002,Staff,0,1
+10178,13-03-1963,Valery,Litvinov,M,07-10-1986,9,C,0,,50568,d007,Staff,0,2
+201769,06-11-1961,Jayesh,Merel,M,26-09-1992,10,A,0,,48427,d004,Technique Leader,0,4
+10179,25-11-1961,Deniz,Duclos,F,04-10-1990,5,B,0,,40000,d005,Engineer,0,3
+10180,29-01-1956,Shaw,Wendorf,M,25-02-1986,10,A,0,,52444,d002,Staff,0,4
+56049,15-07-1952,Felicidad,Waymire,F,15-01-1988,5,B,0,,76782,d001,Staff,0,3
+56049,15-07-1952,Felicidad,Waymire,F,15-01-1988,5,B,0,,76782,d009,Staff,0,3
+10181,22-01-1963,Sibyl,Nooteboom,M,22-06-1988,7,B,0,,40000,d005,Senior Engineer,0,3
+10182,04-02-1961,Moriyoshi,Merey,F,02-09-1990,5,PIP,0,,40380,d005,Senior Engineer,0,1
+10182,04-02-1961,Moriyoshi,Merey,F,02-09-1990,5,PIP,0,,40380,d008,Senior Engineer,0,1
+414537,13-08-1960,Chikara,Businaro,M,04-01-1987,10,B,0,,78474,d007,Staff,0,3
+10183,17-10-1954,Mechthild,Bonifati,M,11-08-1996,1,C,0,,40000,d009,Staff,0,2
+414885,03-08-1962,Candido,Vecchi,M,27-08-1995,7,A,0,,81272,d007,Staff,0,4
+10184,22-05-1957,Mihalis,Lowrie,M,29-10-1987,10,B,0,,48586,d009,Staff,0,3
+10185,05-12-1959,Duro,Sidhu,F,01-03-1986,10,C,0,,68334,d007,Staff,0,2
+10186,16-07-1953,Shigehito,Kropatsch,M,28-03-1986,9,A,0,,40000,d002,Staff,0,4
+10187,26-05-1961,Tommaso,Narwekar,F,01-06-1991,3,PIP,1,31-03-1997,71454,d002,Staff,0,1
+250218,30-01-1953,Uriel,Zongker,M,25-01-1988,8,B,0,,41127,d005,Senior Engineer,0,3
+250218,30-01-1953,Uriel,Zongker,M,25-01-1988,8,B,0,,41127,d008,Senior Engineer,0,3
+10188,13-07-1956,Christ,Muchinsky,F,27-08-1987,5,B,0,,62365,d004,Senior Engineer,0,3
+10189,12-11-1955,Khalid,Erva,M,05-10-1989,6,C,0,,41222,d005,Engineer,0,2
+451340,08-12-1961,Satosi,Zyda,M,09-10-1987,1,B,0,,40000,d003,Staff,0,3
+10190,11-12-1964,Arve,Fairtlough,F,23-06-1986,5,B,0,,40000,d004,Senior Engineer,0,3
+10191,08-04-1959,Zdislav,Nastansky,M,10-04-1986,4,B,0,,40000,d005,Senior Engineer,0,3
+413842,20-10-1962,Christoph,Bahr,F,09-10-1990,3,C,0,,40000,d004,Senior Engineer,0,2
+10192,16-09-1960,Mohua,Falck,M,13-06-1988,10,A,0,,40000,d004,Senior Engineer,0,4
+10192,16-09-1960,Mohua,Falck,M,13-06-1988,10,A,0,,40000,d006,Senior Engineer,0,4
+464798,18-02-1954,Gen,Merey,M,23-03-1989,3,A,0,,46791,d004,Senior Engineer,0,4
+10193,29-06-1960,Masaru,Cheshire,M,28-07-1991,1,C,0,,48733,d005,Engineer,0,2
+10194,29-01-1954,Josyula,Hofmeyr,F,15-05-1989,3,A,0,,64941,d002,Staff,0,4
+37176,01-03-1955,Panayotis,Daescu,M,25-01-1988,10,C,0,,45396,d004,Senior Engineer,0,2
+10195,13-11-1963,Annemarie,Redmiles,M,15-02-1985,4,A,0,,40000,d004,Senior Engineer,0,4
+10196,27-01-1954,Marc,Hellwagner,M,16-11-1994,6,B,0,,86671,d002,Staff,0,3
+109820,11-11-1952,Juichirou,Ghelli,F,13-12-1986,1,C,0,,40000,d005,Assistant Engineer,0,2
+10197,06-08-1963,Kasidit,Krzyzanowski,F,22-11-1993,2,B,0,,40000,d005,Senior Engineer,0,3
+10198,28-05-1953,Pranav,Furedi,M,31-08-1985,10,A,0,,44076,d005,Senior Engineer,0,4
+246896,14-03-1958,Francoise,Baik,F,24-07-1996,6,A,0,,60075,d004,Engineer,0,4
+10199,07-04-1959,Kazuhisa,Ranta,M,29-04-1997,8,C,0,,42042,d007,Staff,0,2
+10200,31-12-1961,Vidya,Awdeh,M,16-10-1985,3,B,0,,46879,d004,Senior Engineer,0,3
+10200,31-12-1961,Vidya,Awdeh,M,16-10-1985,3,B,0,,46879,d006,Senior Engineer,0,3
+10201,15-12-1956,Idoia,Kavraki,F,22-11-1986,1,S,0,,40000,d005,Senior Engineer,0,5
+217945,19-03-1953,Shmuel,Georg,M,30-11-1986,7,PIP,0,,88260,d007,Senior Staff,1,1
+10202,05-01-1956,Greger,Lichtner,M,06-10-1991,5,A,0,,47338,d005,Senior Engineer,0,4
+10203,27-07-1955,Steen,Escriba,M,06-04-1989,5,A,0,,40000,d008,Staff,0,4
+109600,12-04-1955,Xuejun,Chvatal,M,22-10-1991,9,A,0,,78057,d007,Staff,0,4
+10204,09-12-1956,Nevio,Ritcey,F,04-12-1986,7,C,0,,40000,d005,Engineer,0,2
+10205,20-05-1953,Mabhin,Leijenhorst,F,23-08-1993,4,C,0,,40000,d004,Senior Engineer,0,2
+230858,13-05-1960,Conal,Dayana,F,29-08-1990,4,A,0,,57381,d001,Staff,0,4
+10206,19-09-1960,Alassane,Iwayama,F,19-04-1988,8,A,0,,40000,d005,Technique Leader,0,4
+10207,28-05-1955,Girolamo,Anandan,F,11-10-1992,8,A,0,,52783,d005,Senior Engineer,0,4
+279661,09-03-1954,Xiadong,Bach,M,29-04-1986,6,PIP,0,,58554,d007,Senior Staff,0,1
+10208,02-01-1960,Xiping,Klerer,M,23-12-1991,7,PIP,0,,61890,d001,Staff,0,1
+10209,12-12-1956,Yolla,Ellozy,F,23-11-1991,10,C,0,,57996,d002,Staff,0,2
+10209,12-12-1956,Yolla,Ellozy,F,23-11-1991,10,C,0,,57996,d007,Staff,0,2
+287414,04-06-1957,Arie,Kamble,M,01-07-1988,4,B,0,,51536,d004,Senior Engineer,0,3
+10210,24-01-1958,Yuping,Alpin,M,10-05-1994,3,B,1,18-09-2001,40000,d009,Staff,0,3
+210499,26-07-1954,Pintsang,Peron,M,09-11-1988,5,C,0,,71701,d001,Staff,0,2
+10211,05-08-1964,Vishu,Strehl,F,18-11-1989,7,B,0,,49032,d005,Senior Engineer,0,3
+10212,09-05-1959,Divier,Esteva,M,11-07-1990,8,B,1,22-09-1995,65938,d005,Senior Engineer,0,3
+268566,26-01-1962,Panayotis,Parveen,M,04-04-1997,8,A,0,,73481,d007,Staff,0,4
+10213,24-05-1964,Jackson,Kakkad,M,06-11-1992,8,C,0,,40000,d009,Staff,0,2
+10214,14-04-1962,Tadahiko,Ciolek,M,29-02-1988,10,A,0,,58341,d007,Senior Staff,0,4
+53312,29-04-1959,Quingbo,Lagarias,M,07-11-1987,5,C,0,,70268,d007,Staff,0,2
+10215,02-04-1954,Xiaobin,Duclos,M,19-10-1987,1,A,0,,43944,d007,Senior Staff,0,4
+10216,16-07-1958,Amstein,Ghemri,M,30-10-1987,5,A,1,09-11-1993,40000,d008,Staff,0,4
+214747,03-06-1954,Rutger,Grospietsch,F,30-12-1990,3,A,1,20-04-1997,40000,d009,Staff,0,4
+10217,07-07-1954,Yongmin,Roison,F,12-05-1986,2,B,0,,40000,d004,Technique Leader,0,3
+10218,07-12-1958,Zhenhua,Magalhaes,M,15-01-1997,5,B,1,28-02-2003,40788,d004,Senior Engineer,0,3
+231751,23-09-1952,Van,Lunn,F,25-11-1992,9,C,0,,40000,d009,Senior Staff,0,2
+10219,02-05-1952,Genta,Kolvik,M,31-03-1993,2,B,0,,40000,d005,Senior Staff,0,3
+10219,02-05-1952,Genta,Kolvik,M,31-03-1993,2,B,0,,40000,d009,Senior Staff,0,3
+201452,19-04-1959,Karsten,Alpin,M,19-02-1998,6,C,0,,58639,d004,Engineer,0,2
+10220,25-05-1958,Kish,Fasbender,F,25-06-1992,8,C,0,,58883,d002,Staff,0,2
+10221,03-01-1957,Yucai,Granlund,M,08-06-1988,1,C,0,,57821,d004,Senior Engineer,0,2
+435436,31-03-1960,Tiina,Ozeki,F,20-10-1995,2,A,1,16-06-2009,55903,d004,Senior Engineer,0,4
+10222,21-09-1962,Tze,Nourani,M,08-06-1986,7,A,0,,40000,d004,Engineer,0,4
+10223,17-09-1963,Carrsten,Schmiedel,F,18-11-1985,1,C,0,,62922,d005,Engineer,0,2
+98882,12-03-1954,Yishay,Vanwelkenhuysen,F,17-11-1989,1,C,0,,40000,d005,Senior Engineer,0,2
+10224,17-05-1954,Leon,Trogemann,M,09-01-1988,7,A,0,,40000,d004,Senior Engineer,0,4
+10225,13-02-1957,Kellie,Chinen,F,19-06-1986,7,C,0,,40000,d009,Staff,0,2
+42924,24-10-1961,Mads,Felcyn,F,20-03-1992,8,A,0,,40000,d004,Senior Engineer,0,4
+10226,28-12-1964,Xinglin,Plessier,M,27-10-1989,2,C,0,,79456,d007,Staff,0,2
+10227,04-07-1957,Anneli,Kaiser,M,24-04-1994,4,B,0,,53497,d005,Technique Leader,0,3
+78316,14-01-1962,Roselyn,Rahimi,M,15-03-1995,9,B,0,,40000,d005,Technique Leader,0,3
+10228,21-04-1953,Karoline,Cesareni,F,26-08-1991,8,B,0,,79474,d001,Staff,0,3
+10228,21-04-1953,Karoline,Cesareni,F,26-08-1991,8,B,0,,79474,d007,Staff,0,3
+430484,29-10-1962,Hairong,Soicher,F,14-03-1987,5,B,0,,40000,d004,Senior Engineer,0,3
+10229,10-02-1952,Ulises,Takanami,M,22-11-1987,7,B,1,28-01-1991,58321,d006,Engineer,0,3
+10230,11-09-1955,Clyde,Vernadat,M,16-06-1996,7,B,0,,47531,d008,Staff,0,3
+401368,31-03-1960,Vidar,Azumi,M,04-12-1991,10,C,0,,40000,d005,Engineer,0,2
+10231,21-07-1963,Shaowen,Desikan,F,13-04-1996,7,B,0,,40000,d009,Staff,0,3
+10232,11-03-1956,Marko,Auria,F,04-06-1992,9,A,1,30-12-1998,89606,d007,Staff,0,4
+211383,24-09-1960,Uli,Candan,M,17-11-1992,9,A,0,,54215,d001,Staff,0,4
+211383,24-09-1960,Uli,Candan,M,17-11-1992,9,A,0,,54215,d007,Staff,0,4
+10233,01-04-1954,Lein,Vendrig,F,05-07-1985,1,C,0,,40000,d003,Staff,0,2
+10234,18-01-1961,Arunachalam,Bakhtari,M,19-11-1990,10,B,0,,84584,d007,Staff,0,3
+452859,13-04-1960,Gudjon,Poupard,M,28-08-1988,2,B,0,,57777,d001,Staff,0,3
+10235,27-03-1958,Susanta,Roccetti,F,06-04-1995,8,A,1,09-09-2003,41941,d004,Senior Engineer,0,4
+10236,26-03-1960,Susumu,Bade,F,30-08-1996,10,C,0,,80469,d007,Staff,1,2
+11842,31-03-1954,Moto,Piazza,M,11-12-1991,9,A,0,,40000,d008,Staff,0,4
+10237,22-09-1952,Yannis,Mandell,F,11-08-1989,5,B,0,,100715,d007,Staff,0,3
+10238,02-11-1964,Mototsugu,Gire,F,19-11-1986,4,A,0,,52764,d005,Engineer,0,4
+10238,02-11-1964,Mototsugu,Gire,F,19-11-1986,4,A,0,,52764,d008,Engineer,0,4
+439095,21-04-1955,Changho,Matzat,M,06-12-1989,3,B,0,,72075,d001,Staff,0,3
+10239,31-03-1955,Nikolaos,Llado,F,08-05-1995,2,B,0,,65146,d001,Staff,0,3
+427027,04-11-1964,Patricio,Butner,M,22-08-1987,8,A,0,,40000,d009,Staff,0,4
+10240,01-04-1952,Remko,Maccarone,M,06-10-1998,9,A,0,,73874,d006,Engineer,0,4
+10241,01-07-1958,Ortrud,Murillo,M,12-06-1988,2,B,0,,40000,d002,Staff,0,3
+10242,22-02-1964,Lunjin,Ozeri,M,18-01-1988,4,A,0,,40000,d004,Senior Engineer,0,4
+10243,22-12-1960,Wonhee,Pouyioutas,M,24-11-1985,2,A,0,,59332,d007,Senior Staff,0,4
+219797,24-01-1956,Neelam,Demeyer,M,04-03-1990,4,C,0,,40000,d007,Staff,0,2
+10244,24-10-1961,Foong,Flasterstein,M,23-12-1985,8,C,0,,56292,d005,Engineer,0,2
+10245,23-08-1962,Ramalingam,Gente,F,26-04-1985,1,B,0,,40000,d008,Staff,0,3
+293183,05-11-1952,Guangming,Butterworth,F,01-10-1986,7,C,0,,56376,d004,Engineer,0,2
+10246,23-06-1962,Basem,Teitelbaum,M,12-07-1987,6,B,0,,40000,d004,Senior Engineer,0,3
+10247,30-06-1964,Heon,Riefers,F,14-08-1992,8,A,0,,40000,d004,Senior Engineer,0,4
+439788,14-05-1958,Irene,Setia,F,10-08-1986,1,A,0,,40000,d005,Engineer,0,4
+439788,14-05-1958,Irene,Setia,F,10-08-1986,1,A,0,,40000,d008,Engineer,0,4
+10248,24-09-1955,Frederique,Tempesti,F,13-08-1991,8,A,0,,58918,d007,Staff,0,4
+10249,10-06-1954,Marie,Boreale,M,08-12-1991,5,A,0,,72192,d005,Senior Engineer,0,4
+10249,10-06-1954,Marie,Boreale,M,08-12-1991,5,A,0,,72192,d008,Senior Engineer,0,4
+431759,01-02-1965,Alassane,Ramsay,M,05-11-1987,6,A,0,,44859,d004,Engineer,0,4
+431759,01-02-1965,Alassane,Ramsay,M,05-11-1987,6,A,0,,44859,d006,Engineer,0,4
+10250,12-08-1958,Serap,Etalle,M,30-08-1992,7,A,0,,50330,d006,Senior Engineer,0,4
+426193,10-02-1954,Huiqun,Rattan,M,23-03-1985,7,A,1,19-08-1987,75063,d007,Staff,0,4
+10251,25-04-1957,Alair,Rosenbaum,M,25-06-1992,2,A,0,,61743,d008,Staff,0,4
+10252,30-01-1961,Shirish,Wegerle,F,08-11-1990,4,A,0,,40000,d004,Senior Engineer,0,4
+416364,05-02-1962,Zissis,Mateescu,M,26-11-1989,1,B,0,,64980,d004,Senior Engineer,0,3
+416364,05-02-1962,Zissis,Mateescu,M,26-11-1989,1,B,0,,64980,d005,Senior Engineer,0,3
+10253,12-11-1964,Zsolt,Salinas,F,21-02-1985,9,S,1,14-10-1988,62494,d007,Staff,0,5
+10254,07-12-1959,Shen,Brattka,M,14-06-1990,5,C,1,22-06-2003,60222,d007,Staff,0,2
+207791,30-08-1957,Jahangir,Schmittgen,M,20-08-1988,3,A,0,,43645,d005,Engineer,0,4
+10255,08-02-1964,Roddy,Garnick,M,12-05-1993,9,A,0,,63822,d004,Senior Engineer,0,4
+10256,02-12-1960,Irene,Radhakrishnan,M,12-10-1985,5,C,0,,71305,d007,Staff,0,2
+277176,07-07-1956,Kyoichi,Simmel,M,18-12-1994,2,A,0,,57027,d008,Staff,0,4
+10257,12-09-1957,Aiman,Riexinger,M,05-08-1986,3,B,0,,40000,d004,Technique Leader,0,3
+10258,12-12-1955,Basil,Ishibashi,F,17-05-1985,8,B,0,,66280,d005,Senior Engineer,0,3
+22638,28-12-1963,Mantis,Otillio,F,10-08-1988,9,C,0,,68821,d005,Technique Leader,0,2
+10259,24-11-1964,Susanna,Vesel,M,25-06-1986,1,A,0,,88991,d001,Staff,0,4
+10259,24-11-1964,Susanna,Vesel,M,25-06-1986,1,A,0,,88991,d009,Staff,0,4
+205714,27-08-1954,Anwar,Ellozy,M,12-12-1991,1,B,0,,51903,d005,Senior Engineer,0,3
+10260,14-07-1961,Alper,Suomi,F,13-04-1991,10,PIP,0,,60879,d004,Senior Engineer,0,1
+10261,25-12-1959,Mang,Erie,M,20-10-1993,4,C,0,,40000,d005,Senior Engineer,0,2
+218042,11-01-1960,Dharmaraja,Berstel,M,08-08-1995,1,A,0,,74213,d002,Staff,0,4
+10262,04-08-1955,Mahendra,Maraist,F,27-07-1992,5,A,1,27-09-1999,63005,d007,Staff,0,4
+10263,08-02-1961,Takahiro,Waterhouse,M,05-02-1994,7,A,0,,67883,d002,Staff,0,4
+36965,07-01-1953,Yechiam,Munch,M,08-03-1988,2,B,1,23-05-1992,51883,d005,Senior Engineer,0,3
+10264,08-09-1958,Nalini,Kawashimo,F,16-07-1997,6,A,0,,60522,d005,Engineer,0,4
+10265,01-12-1960,Ramalingam,Muniz,M,13-07-1989,5,C,0,,46382,d006,Senior Engineer,0,2
+218058,27-07-1958,Aiman,Szemeredi,M,30-08-1988,1,A,0,,67484,d001,Senior Staff,0,4
+10266,24-02-1958,Sukumar,Rassart,M,25-05-1990,7,B,0,,47093,d004,Senior Engineer,0,3
+10267,16-01-1956,Shaunak,Cullers,M,11-12-1996,1,B,0,,40000,d004,Engineer,0,3
+10966,04-07-1962,Danel,Pardalos,M,07-11-1989,5,B,0,,70464,d004,Staff,0,3
+10966,04-07-1962,Danel,Pardalos,M,07-11-1989,5,B,0,,70464,d008,Staff,0,3
+10268,03-06-1958,Nishit,Siochi,M,17-12-1986,4,B,1,24-12-1996,41017,d004,Engineer,0,3
+10268,03-06-1958,Nishit,Siochi,M,17-12-1986,4,B,1,24-12-1996,41017,d005,Engineer,0,3
+423740,19-08-1954,Jaroslava,Bardell,F,01-12-1987,3,A,0,,46599,d005,Senior Engineer,0,4
+10269,07-10-1959,Taizo,Oxman,F,24-07-1988,3,A,0,,40000,d004,Senior Engineer,0,4
+10270,30-01-1963,Bedir,Hartvigsen,F,26-04-1990,2,A,0,,42081,d007,Staff,0,4
+468180,20-12-1959,Mads,Swen,M,01-07-1992,7,B,0,,59348,d009,Staff,0,3
+10271,24-04-1962,Sham,Eastman,M,23-05-1986,6,A,0,,53680,d005,Senior Engineer,0,4
+10272,30-11-1954,Yishai,Cannane,M,23-05-1988,4,A,0,,58070,d002,Staff,0,4
+207996,09-05-1956,Tianruo,Milicic,F,29-05-1991,4,C,1,18-10-1996,63332,d002,Staff,0,2
+10273,29-08-1962,Baocai,Lieblein,M,06-11-1985,1,B,0,,75148,d007,Staff,0,3
+10274,23-08-1957,Dmitri,Pearson,F,21-04-1991,7,A,0,,86164,d005,Engineer,0,4
+286451,10-02-1960,Shuichi,Swiler,M,08-06-1986,3,B,0,,40000,d004,Senior Engineer,0,3
+10275,22-10-1961,Marek,Luck,F,08-09-1987,5,S,1,08-06-2000,40000,d005,Senior Engineer,0,5
+10276,27-07-1964,Xuejun,Hempstead,M,21-07-1985,7,PIP,0,,40000,d005,Senior Engineer,0,1
+30871,18-06-1959,Michaela,Glowinski,M,02-03-1987,1,A,0,,40000,d004,Technique Leader,0,4
+10277,15-08-1964,Isaac,Schwartzbauer,M,16-06-1985,5,A,0,,59534,d007,Staff,0,4
+10278,09-03-1955,Lubomir,Nitsch,M,17-05-1991,9,B,0,,51703,d005,Engineer,0,3
+260621,02-05-1953,Christophe,Binding,M,12-02-1991,7,PIP,0,,54758,d004,Senior Engineer,0,1
+10279,20-08-1964,Barton,Jumpertz,F,20-12-1994,10,PIP,0,,40000,d004,Engineer,0,1
+10279,20-08-1964,Barton,Jumpertz,F,20-12-1994,10,PIP,0,,40000,d009,Engineer,0,1
+24103,31-05-1954,Martins,Schaft,M,27-03-1985,4,A,0,,40000,d009,Staff,0,4
+10280,29-10-1964,Stabislas,Delgrange,M,18-03-1988,2,A,0,,66695,d003,Staff,0,4
+10281,13-05-1953,Moty,Kusakari,M,03-12-1994,8,B,0,,46123,d006,Senior Engineer,0,3
+78524,08-05-1954,Zhiwei,Bahk,F,11-08-1988,5,B,1,14-07-2000,63123,d007,Staff,0,3
+10282,27-11-1953,Hercules,Benzmuller,M,04-06-1986,8,A,0,,40000,d004,Engineer,0,4
+10283,08-07-1953,Kauko,Birjandi,M,25-05-1988,2,C,1,15-08-1993,40000,d005,Senior Engineer,0,2
+10284,08-04-1954,Masali,Murrill,F,02-07-1997,6,C,0,,40000,d004,Engineer,0,2
+10285,21-09-1956,Zhonghui,Preusig,F,27-02-1995,5,A,0,,62075,d008,Staff,0,4
+239616,09-02-1955,Chenyi,Benveniste,M,30-03-1990,9,A,0,,48836,d004,Technique Leader,0,4
+239616,09-02-1955,Chenyi,Benveniste,M,30-03-1990,9,A,0,,48836,d005,Technique Leader,0,4
+10286,14-05-1952,Saddek,Gopalakrishnan,F,21-03-1988,10,A,1,13-03-1994,40000,d009,Staff,0,4
+10287,28-11-1963,Marie,Pietracaprina,M,28-12-1992,6,B,0,,55732,d005,Staff,0,3
+10287,28-11-1963,Marie,Pietracaprina,M,28-12-1992,6,B,0,,55732,d008,Staff,0,3
+469619,17-09-1955,Nakhoon,Bennis,M,01-12-1989,8,C,0,,47456,d004,Senior Engineer,0,2
+10288,02-06-1959,Selwyn,Perri,M,29-08-1994,8,C,0,,80474,d004,Technique Leader,1,2
+36372,24-07-1953,Ronghao,Conta,F,29-06-1992,4,PIP,0,,74338,d007,Senior Staff,0,1
+10289,30-11-1956,Shay,Poulakidas,M,06-06-1990,6,A,0,,40000,d005,Technique Leader,0,4
+10290,29-05-1957,Yongmao,Pleszkun,M,18-09-1991,5,PIP,0,,44274,d005,Senior Engineer,0,1
+260402,07-08-1956,Kwok,Bach,M,25-04-1990,3,C,0,,40000,d005,Senior Engineer,0,2
+10291,23-01-1965,Dipayan,Seghrouchni,M,29-09-1986,1,C,0,,57430,d007,Staff,0,2
+10292,27-01-1963,Yucel,Ghelli,F,05-06-1989,2,A,0,,78370,d007,Staff,0,4
+469215,11-01-1956,Juyoung,Smailagic,F,15-09-1987,6,B,0,,56042,d005,Engineer,0,3
+10293,24-11-1956,Mihalis,Avouris,F,12-12-1992,3,A,0,,44200,d004,Senior Engineer,0,4
+10294,05-01-1955,Rutger,Miara,M,08-04-1996,1,C,0,,66448,d005,Senior Engineer,0,2
+69005,02-05-1959,Alain,Quadeer,M,10-06-1991,9,C,0,,40000,d005,Senior Engineer,0,2
+69005,02-05-1959,Alain,Quadeer,M,10-06-1991,9,C,0,,40000,d008,Senior Engineer,0,2
+10295,13-01-1953,Kristine,Velardi,M,27-08-1990,1,C,0,,46398,d002,Staff,0,2
+10296,13-05-1964,Petter,Lorho,M,16-09-1989,1,B,0,,77788,d007,Staff,0,3
+279559,17-03-1957,Jasminko,Cronan,F,27-10-1992,8,B,0,,83729,d007,Staff,0,3
+279559,17-03-1957,Jasminko,Cronan,F,27-10-1992,8,B,0,,83729,d009,Staff,0,3
+10297,17-06-1956,Narain,Oaver,F,28-05-1986,9,C,0,,63061,d004,Senior Engineer,0,2
